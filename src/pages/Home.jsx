@@ -7,7 +7,7 @@ export default function Home() {
   return (
     
     <div className="card">
-      <ResponsiveAppBar />
+      {/* <ResponsiveAppBar /> */}
       <h2>Welcome Home 🎉</h2>
       <p>You are successfully logged in.</p>
 
